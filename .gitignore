@@ -1,7 +1,6 @@
 /node_modules
 /.gradle
 /local.properties
-/android/.gradle
 **/build/
 *.keystore
 google-services.json
