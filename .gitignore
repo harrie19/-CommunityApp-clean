@@ -1,28 +1,9 @@
-*.iml
-.gradle
+/node_modules
+/.gradle
 /local.properties
-/.idea
-.DS_Store
-build/
-captures/
-.externalNativeBuild/
-.cxx/
-
-# temp / editor / backups
-*.bak
-*.broken
-*.bom
-*~
-*.swp
-*.tmp
-
-# Android / Gradle (falls nicht schon vorhanden)
-.gradle/
-build/
+/android/.gradle
 **/build/
-local.properties
-
-# generated res / intermediates
-**/intermediates/
-**/merged_res/
-**/packaged_res/
+*.keystore
+google-services.json
+.env
+.DS_Store
